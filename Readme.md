@@ -21,7 +21,7 @@ I’m passionate about building scalable web applications, secure systems, and i
 
 ## 🛠️ Tech Stack
 **Frontend:** React.js, Angular, HTML, CSS, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express.js, Django, Spring Boot, ASP.NET  
+**Backend:** Node.js, Express.js, Next.js Django, Spring Boot, ASP.NET  
 **Database:** MySQL, MongoDB  
 **Other Skills:** REST APIs, Authentication, Authorization, Error Handling, Secure Systems  
 
